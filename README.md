@@ -30,7 +30,7 @@ Missing calendar dates are not assumed to mean zero activity. The app reindexes 
 ## Run
 ```bash
 pip install -r requirements.txt
-python -m pip install streamlit
+python -m streamlit run app.py
 ```
 
 Then upload the actual Excel/CSV file in the sidebar.
